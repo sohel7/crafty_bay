@@ -16,4 +16,6 @@ class AppColors {
   };
 
   static const Color primaryColor = Color(0xFF07ADAE);
+  //static const Color primaryColor = Color(0xFFEE121B);
+ //ekhane color change korle puro software a color change hoe jabe
 }
